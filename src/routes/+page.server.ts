@@ -7,5 +7,3 @@ export async function load() {
         countries: data ?? [],
     };
 }
-
-export const ssr = false;
